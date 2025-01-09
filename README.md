@@ -12,6 +12,7 @@ I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just I
 
 My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
 
+![OIP (8)](https://github.com/user-attachments/assets/0f2285e1-6075-4987-ac77-de6d472e8150)
 
 
 ## **Location and Contact**
@@ -103,7 +104,7 @@ Like My experiance?
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Add me in Linkedin" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>" />
 
 ### Talking about Personal Stuff:
 
