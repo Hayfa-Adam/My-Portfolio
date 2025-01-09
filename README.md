@@ -97,7 +97,7 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
 
-Joined Github **{{3}}** weeks ago.
+Joined Github **{3}** weeks ago.
 
 
 Like My experiance?
