@@ -118,7 +118,7 @@ Tableau
 
 [Power BI](https://hayfa-adam.github.io/Power-BI/)
 
-Python
+[Python](https://hayfa-adam.github.io/Python/)
 
 [SQL](https://hayfa-adam.github.io/SQL/)
 
