@@ -95,7 +95,10 @@ I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just I
 
 My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
 
-### I am Glad to see you here! 🚀Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
+### I am Glad to see you here! 🚀
+![Task Completed](https://media.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif)
+
+. 🌟
 
 ![Happy days look like]("https://giphy.com/embed/3ohhwJbytwUSJyvvHi)
 <width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
