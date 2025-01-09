@@ -1,5 +1,9 @@
 
+
+
 ## Hey there 👋, I'm Hayfa  Iam Based in Stoke-on-Trent, England 🌍.
+
+
 
 ## Find me around the web 🌎: <a href="https://sites.google.com/view/hayfaadam/home"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
@@ -75,6 +79,8 @@ As I transition into the data analytics domain, my vision is to blend my analyti
 
 
 ## Feel free to reach out to connect or discuss opportunities!
+
 📹 ✍🏾[Learning in public on](https://sites.google.com/view/hayfaadam/home)  
+
 
 💼[Sharing updates on LinkedIn](https://uk.linkedin.com/in/hayfa-adam)
