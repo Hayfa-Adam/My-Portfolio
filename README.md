@@ -97,14 +97,8 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
 
-Joined Github **{3}** weeks ago.
+<iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>
 
-
-Like My experiance?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Add me in Linkedin" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>" />
 
 ### Talking about Personal Stuff:
 
