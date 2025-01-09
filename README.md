@@ -81,7 +81,8 @@ Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍�
 
 Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
 
-## Hey there 👋, I'm [Hayfa!]Iam 🌍Based in Stoke-on-Trent, England.
+## Hey there 👋, I'm [Hayfa!] Iam 🌍Based in Stoke-on-Trent, England.
+## Find me around the web 🌎: <a href="[https://sites.google.com/view/hayfaadam/home]<img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/hayfa-adam)
 
@@ -109,11 +110,11 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 - 📰 &nbsp; Reading, books and watching TV.
 
 ### My Technical Skills: 
-![image](https://github.com/user-attachments/assets/05da990d-8692-41bd-97c2-6889a796e400)
+![image](https://github.com/user-attachments/assets/05da990d-8692-41bd-97c2-6889a796e400)<img src="image-url-or-path" alt="description" width="200" height="200">
  :
-![828667](https://github.com/user-attachments/assets/d89abfe3-44c1-4894-a102-307b094804b9)
+![828667](https://github.com/user-attachments/assets/d89abfe3-44c1-4894-a102-307b094804b9)<img src="image-url-or-path" alt="description" width="200" height="200">
 
- ![IMG_3349](https://github.com/user-attachments/assets/51fc2f28-b9f8-4a0b-a1e0-008750ccde2c)
+ ![IMG_3349](https://github.com/user-attachments/assets/51fc2f28-b9f8-4a0b-a1e0-008750ccde2c)<img src="image-url-or-path" alt="description" width="200" height="200">
 
 ![1322155](https://github.com/user-attachments/assets/7366697d-9b12-4106-9557-1715c8f0a8e2)
 
@@ -124,20 +125,8 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 ![OIP (3)](https://github.com/user-attachments/assets/c0128a1a-df65-42db-96c6-462daab5d3a2)
 
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-![BrightPay Icon](https://example.com/brightpay-logo.png)
 
-![BrightPay Icon](https://example.com/brightpay-logo.png)
 
 ### Projects and Dev Stuffs:
 
