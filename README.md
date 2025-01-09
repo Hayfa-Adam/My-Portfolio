@@ -122,7 +122,7 @@ Tableau
 
 [SQL](https://hayfa-adam.github.io/SQL/)
 
-Azure 
+[Azure](https://hayfa-adam.github.io/Azure/)
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
