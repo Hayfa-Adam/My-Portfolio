@@ -61,11 +61,11 @@ Be part of a collaborative team where I can grow professionally and make a tangi
 
 With my passion for learning, problem-solving, and innovation, I am excited to embark on this new chapter of my career and am confident in my ability to succeed as a data analyst.
 
-[Excel ]((https://github.com/Hayfa-Adam/Excel)
+[Excel ](https://github.com/Hayfa-Adam/Excel)
 
-[Tableau]](https://github.com/Hayfa-Adam/Tableau)
+[Tableau](https://github.com/Hayfa-Adam/Tableau)
 
-[Power BI]]https://github.com/Hayfa-Adam/Power-BI)
+[Power BI](https://github.com/Hayfa-Adam/Power-BI)
 
 Feel free to reach out to connect or discuss opportunities!
 [LinkedIn Profile ](https://uk.linkedin.com/in/hayfa-adam)
