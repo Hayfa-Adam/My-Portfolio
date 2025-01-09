@@ -4,17 +4,21 @@
 
 **Welcome to my GitHub profile👋 Here is important information about me:**
 
-I am a highly motivated professional transitioning into the dynamic and data-driven world of data analytics. With a robust foundation in accounting and finance , education, and professional roles across various sectors, I bring a unique blend of analytical thinking, problem-solving skills, and strong interpersonal abilities. My goal is to leverage these skills, combined with my newly acquired technical expertise, to make a meaningful impact in data analytics and business intelligence.
+I am an accounting and finance graduate with a passion for data analysis. I have had the opportunity to work across various industries, including education, design, customer service and accounting and finance. Throughout these experiences, I have developed a range of key skills, such as effective time management, problem-solving, and the ability to communicate with diverse stakeholders, including students and suppliers.  
 
 
-## Location and Contact
+I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just IT Training, aiming to consolidate my skills further and become a data analyst. I am focused on enhancing my proficiency in Excel, Tableau, and Power BI to effectively clean, organize, analyse, and visualize data, making it easier for decision-making processes.
+
+
+My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
+
+
+
+## **Location and Contact**
 
   🌍**Based in**: Stoke-on-Trent, England. 
   
   ✉️**Connect with me**: [LinkedIn Profile ](https://uk.linkedin.com/in/hayfa-adam)
-  
-##  **About Me:**
-
  
 
 
@@ -76,32 +80,29 @@ Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍�
 
 Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam) 💼
 
-## Hey there 👋, I'm [Pavan!](https://github.com/iampavangandhi/)
+## Hey there 👋, I'm [Hayfa Adam!]
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![website Badge](https://sites.google.com/view/hayfaadam/home))
+[![Linkedin Badge](www.linkedin.com/in/hayfa-adam)
 
-### Glad to see you here! 
+### Glad to see you here! 🚀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+ 
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I am an accounting and finance graduate with a passion for data analysis. I have had the opportunity to work across various industries, including education, design, customer service and accounting and finance. Throughout these experiences, I have developed a range of key skills, such as effective time management, problem-solving, and the ability to communicate with diverse stakeholders, including students and suppliers.  
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just IT Training, aiming to consolidate my skills further and become a data analyst. I am focused on enhancing my proficiency in Excel, Tableau, and Power BI to effectively clean, organize, analyse, and visualize data, making it easier for decision-making processes.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Joined Github **{{ 3}}** weeks ago.
+
+
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
 
 Like My Work?
 
@@ -111,19 +112,20 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 🛠 &nbsp; I’m currently working with Ecel, Tableau and BrightPay.
+- 👾 &nbsp; Fun fact: I am born in the Xmas day and I gave birth for my son in Xmas day. 
+- 📫 &nbsp; Reach me out: Al-hayfaa@hotmail.com.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 💻 &nbsp; I love exploring new technologies.
+- 📰 &nbsp; Reading, books and watching TV.
 
-### Languages and Tools:
+### My Technical Skills: 
+![image](https://github.com/user-attachments/assets/05da990d-8692-41bd-97c2-6889a796e400)
+ :
+
+ 
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
