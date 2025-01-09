@@ -1,4 +1,6 @@
 # My-Portfolio
+![Screenshot 2025-01-09 152427](https://github.com/user-attachments/assets/85bcf65b-f620-4e3e-bc69-44fe563bead1)
+
 
 **Location and Contact**
 
@@ -59,4 +61,11 @@ Be part of a collaborative team where I can grow professionally and make a tangi
 
 With my passion for learning, problem-solving, and innovation, I am excited to embark on this new chapter of my career and am confident in my ability to succeed as a data analyst.
 
+[Excel ]((https://github.com/Hayfa-Adam/Excel)
+
+[Tableau]](https://github.com/Hayfa-Adam/Tableau)
+
+[Power BI]]https://github.com/Hayfa-Adam/Power-BI)
+
 Feel free to reach out to connect or discuss opportunities!
+[LinkedIn Profile ](https://uk.linkedin.com/in/hayfa-adam)
