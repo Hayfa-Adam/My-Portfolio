@@ -80,33 +80,28 @@ Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍�
 
 Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
 
-## Hey there 👋, I'm [Hayfa!]
+## Hey there 👋, I'm [Hayfa!]Iam 🌍Based in Stoke-on-Trent, England.
 
-[![website Badge](https://sites.google.com/view/hayfaadam/home)
-[![Linkedin Badge] (www.linkedin.com/in/hayfa-adam)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/hayfa-adam)
 
-### Glad to see you here! 🚀
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+### I am Glad to see you here! 🚀
+
+## About Me
  
-
 I am an accounting and finance graduate with a passion for data analysis. I have had the opportunity to work across various industries, including education, design, customer service and accounting and finance. Throughout these experiences, I have developed a range of key skills, such as effective time management, problem-solving, and the ability to communicate with diverse stakeholders, including students and suppliers.  
 
 I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just IT Training, aiming to consolidate my skills further and become a data analyst. I am focused on enhancing my proficiency in Excel, Tableau, and Power BI to effectively clean, organize, analyse, and visualize data, making it easier for decision-making processes.
 
 My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
 
-Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
 
-Joined Github **{{ 3}}** weeks ago.
+Joined Github **{{3}}** weeks ago.
 
 
+Like My experiance?
 
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Add me in Linkedin" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
