@@ -85,7 +85,7 @@ Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/hayfa-adam)
 
-### I am Glad to see you here! 🚀
+
 
 ## About Me
  
@@ -95,9 +95,9 @@ I am currently enrolled in an 8-weeks intensive Data Skills Bootcamp with Just I
 
 My immediate goal is to establish myself as a Junior Data Analyst role in a financial environment, where I can leverage my existing knowledge and acquire new skills. I have completed several data projects using Excel, SQL, Python, Tableau, and Power BI, which are showcased in my GitHub and Tableau Public portfolios.
 
-Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
+### I am Glad to see you here! 🚀Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
 
-![Happy days look like ]("https://giphy.com/embed/3ohhwJbytwUSJyvvHi)
+![Happy days look like]("https://giphy.com/embed/3ohhwJbytwUSJyvvHi)
 <width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 </iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>)
