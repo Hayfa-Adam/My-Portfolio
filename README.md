@@ -120,7 +120,7 @@ Tableau
 
 Python
 
-SQL
+[SQL](https://hayfa-adam.github.io/SQL/)
 
 Azure 
 
