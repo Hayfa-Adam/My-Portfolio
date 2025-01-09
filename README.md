@@ -111,8 +111,18 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 ### My Technical Skills: 
 ![image](https://github.com/user-attachments/assets/05da990d-8692-41bd-97c2-6889a796e400)
  :
+![828667](https://github.com/user-attachments/assets/d89abfe3-44c1-4894-a102-307b094804b9)
 
- 
+ ![IMG_3349](https://github.com/user-attachments/assets/51fc2f28-b9f8-4a0b-a1e0-008750ccde2c)
+
+![1322155](https://github.com/user-attachments/assets/7366697d-9b12-4106-9557-1715c8f0a8e2)
+
+![excel-logo-png-img-microsoft-excel-logo-in-svg-vector-or-png-file-format-3000x2000](https://github.com/user-attachments/assets/d2599389-1749-44c3-8c95-4fb26e98eb50)
+
+![159-1595848_python-logo-png-transparent-background-python-logo-png](https://github.com/user-attachments/assets/df16c426-4971-4e37-9255-ce9e310abd9c)
+
+![OIP (3)](https://github.com/user-attachments/assets/c0128a1a-df65-42db-96c6-462daab5d3a2)
+
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
