@@ -98,24 +98,13 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 ### I am Glad to see you here! 🚀
 ![Task Completed](https://media.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif)
 
-. 🌟
-
-![Happy days look like]("https://giphy.com/embed/3ohhwJbytwUSJyvvHi)
-<width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
-
-</iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>)
-
-iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>
-
 
 ### Talking about Personal Stuff:
-
 - 🛠 &nbsp; I’m currently working with Ecel, Tableau and BrightPay.
-- 👾 &nbsp; Fun fact: I am born in the Xmas day and I gave birth for my son in Xmas day. 
+- 👾 &nbsp; Fun fact: I am born in the Xmas day and I gave birth for my son in the same day. 
 - 📫 &nbsp; Reach me out: Al-hayfaa@hotmail.com.
 
 ### My Absolute Favorites:
-
 - 💻 &nbsp; I love exploring new technologies.
 - 📰 &nbsp; Reading, books and watching TV.
 
@@ -135,6 +124,9 @@ iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="480" height="475"
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+![BrightPay Icon](https://example.com/brightpay-logo.png)
+![BrightPay Icon](https://example.com/brightpay-logo.png)
 
 ### Projects and Dev Stuffs:
 
