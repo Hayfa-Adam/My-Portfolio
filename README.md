@@ -126,6 +126,7 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ![BrightPay Icon](https://example.com/brightpay-logo.png)
+
 ![BrightPay Icon](https://example.com/brightpay-logo.png)
 
 ### Projects and Dev Stuffs:
