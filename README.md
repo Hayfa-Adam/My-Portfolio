@@ -97,7 +97,10 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 Feel free to connect with me al-Hayfaa@hotmail.com for all things tech or just to say hello! Let's shape the future together. 🌟
 
-![Happy days look like ](<iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>)
+![Happy days look like ](<iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi")
+<width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>)
 
 iframe src="https://giphy.com/embed/3ohhwJbytwUSJyvvHi" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monday-mondaydotcom-done-donefeeling-task-finnish-work-jobdone-3ohhwJbytwUSJyvvHi">via GIPHY</a></p>
 
