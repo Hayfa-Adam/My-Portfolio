@@ -80,7 +80,7 @@ Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍�
 
 Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
 
-## Hey there 👋, I'm [Hayfa Adam!]
+## Hey there 👋, I'm [Hayfa!]
 
 [![website Badge](https://sites.google.com/view/hayfaadam/home)
 [![Linkedin Badge] (www.linkedin.com/in/hayfa-adam)
