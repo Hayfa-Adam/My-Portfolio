@@ -1,17 +1,21 @@
-# My-Portfolio
+# Hi, I'm Hayfa 
 ![Screenshot 2025-01-09 152427](https://github.com/user-attachments/assets/85bcf65b-f620-4e3e-bc69-44fe563bead1)
 
 
-**Location and Contact**
+**Welcome to my GitHub profile👋 Here is important information about me:**
+
+I am a highly motivated professional transitioning into the dynamic and data-driven world of data analytics. With a robust foundation in accounting and finance , education, and professional roles across various sectors, I bring a unique blend of analytical thinking, problem-solving skills, and strong interpersonal abilities. My goal is to leverage these skills, combined with my newly acquired technical expertise, to make a meaningful impact in data analytics and business intelligence.
+
+
+## Location and Contact
 
   🌍**Based in**: Stoke-on-Trent, England. 
   
   ✉️**Connect with me**: [LinkedIn Profile ](https://uk.linkedin.com/in/hayfa-adam)
   
-## 🚀 **About Me:**
+##  **About Me:**
 
- I am a highly motivated professional transitioning into the dynamic and data-driven world of data analytics. With a robust foundation in accounting and finance , education, and professional roles across various sectors, I bring a unique blend of analytical thinking, problem-solving skills, and strong interpersonal abilities. My goal is to leverage these skills, combined with my newly acquired technical expertise, to make a meaningful impact in data analytics and business intelligence.
-
+ 
 
 
 ## 💡**Current Learning & Career Transition**
@@ -67,5 +71,7 @@ With my passion for learning, problem-solving, and innovation, I am excited to e
 
 [Power BI](https://github.com/Hayfa-Adam/Power-BI)
 
-Feel free to reach out to connect or discuss opportunities!
-[LinkedIn Profile ](https://uk.linkedin.com/in/hayfa-adam)
+Find me around the web 🌎 and Feel free to reach out to connect or discuss opportunities!
+Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍🏾
+
+Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam) 💼
