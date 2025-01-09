@@ -116,7 +116,7 @@ Excel
 
 Tableau
 
-Power BI
+[Power BI](https://hayfa-adam.github.io/Power-BI/)
 
 Python
 
