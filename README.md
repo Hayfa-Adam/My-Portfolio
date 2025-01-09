@@ -1,5 +1,5 @@
-# my-Portfolio
-my-Portfolio
+# My-Portfolio
+
 **Location and Contact**
 
   🌍**Based in**: Stoke-on-Trent, England. 
