@@ -112,7 +112,7 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 ## My Technical Skills: 
 
-Excel
+{Excel}(https://hayfa-adam.github.io/Excel/)
 
 Tableau
 
