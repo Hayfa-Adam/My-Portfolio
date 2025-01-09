@@ -78,12 +78,12 @@ With my passion for learning, problem-solving, and innovation, I am excited to e
 Find me around the web 🌎 and Feel free to reach out to connect or discuss opportunities!
 Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍🏾
 
-Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam) 💼
+Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
 
 ## Hey there 👋, I'm [Hayfa Adam!]
 
 [![website Badge](https://sites.google.com/view/hayfaadam/home)
-[![Linkedin Badge](www.linkedin.com/in/hayfa-adam)
+[![Linkedin Badge] (www.linkedin.com/in/hayfa-adam)
 
 ### Glad to see you here! 🚀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
