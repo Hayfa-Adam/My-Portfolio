@@ -1,5 +1,5 @@
 
-## Hey there 👋, # Hi, I'm Hayfa  Iam 🌍Based in Stoke-on-Trent, England.
+## Hey there 👋, I'm Hayfa  Iam Based in Stoke-on-Trent, England 🌍.
 
 ## Find me around the web 🌎: <a href="https://sites.google.com/view/hayfaadam/home"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
@@ -61,64 +61,8 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
   <summary><b>⚡ <a href="https://hayfa-adam.github.io/SQL/">SQL</a></b></summary>
 </details>
 
-{Excel}()
-
-[Tableau](https://hayfa-adam.github.io/Tableau/)
-
-[Power BI](https://hayfa-adam.github.io/Power-BI/)
-
-<details>
-  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Azure/">Azure</a></b></summary>
-</details>
-
-[Python](https://hayfa-adam.github.io/Python/)
-
-[SQL](https://hayfa-adam.github.io/SQL/)
-
-<details>
-  <summary><b>⚡[Azure](https://hayfa-adam.github.io/Azure/)</b></summary>
 
 
-<details>
-  <summary><b>⚡<a href="https://hayfa-adam.github.io/Azure/">Azure</a></b></summary>
-</details>
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 ## 💬**Career Vision**
 
 As I transition into the data analytics domain, my vision is to blend my analytical mindset, accounting and finance experience, and technical skills to drive impactful results. **I aim to**:
