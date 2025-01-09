@@ -74,7 +74,7 @@ As I transition into the data analytics domain, my vision is to blend my analyti
 **Collaborate and Grow**: Work in a dynamic, forward-thinking environment where I can collaborate with professionals from diverse backgrounds and continually expand my skill set.
 
 
-Feel free to reach out to connect or discuss opportunities!
-Learning in public on (https://sites.google.com/view/hayfaadam/home)  📹 ✍🏾
+## Feel free to reach out to connect or discuss opportunities!
+📹 ✍🏾[Learning in public on](https://sites.google.com/view/hayfaadam/home)  
 
-Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam)💼
+💼[Sharing updates on LinkedIn](https://uk.linkedin.com/in/hayfa-adam)
