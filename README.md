@@ -112,17 +112,57 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 ## My Technical Skills: 
 
-{Excel}(https://hayfa-adam.github.io/Excel/)
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/SQL/">SQL</a></b></summary>
+</details>
 
-Tableau
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Tableau/">Tableau</a></b></summary>
+</details>
+
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Excel/">Excel</a></b></summary>
+</details>
+
+
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Azure/">Azure</a></b></summary>
+</details>
+
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Power-BI/">Power BI</a></b></summary>
+</details>
+
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/SQL/">SQL</a></b></summary>
+</details>
+
+{Excel}()
+
+[Tableau](https://hayfa-adam.github.io/Tableau/)
 
 [Power BI](https://hayfa-adam.github.io/Power-BI/)
+
+<details>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Azure/">Azure</a></b></summary>
+</details>
 
 [Python](https://hayfa-adam.github.io/Python/)
 
 [SQL](https://hayfa-adam.github.io/SQL/)
 
-[Azure](https://hayfa-adam.github.io/Azure/)
+<details>
+  <summary><b>⚡[Azure](https://hayfa-adam.github.io/Azure/)</b></summary>
+
+
+<details>
+  <summary><b>⚡<a href="https://hayfa-adam.github.io/Azure/">Azure</a></b></summary>
+</details>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
