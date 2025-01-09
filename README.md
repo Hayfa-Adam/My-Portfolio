@@ -82,7 +82,7 @@ Sharing updates on LinkedIn (https://uk.linkedin.com/in/hayfa-adam) 💼
 
 ## Hey there 👋, I'm [Hayfa Adam!]
 
-[![website Badge](https://sites.google.com/view/hayfaadam/home))
+[![website Badge](https://sites.google.com/view/hayfaadam/home)
 [![Linkedin Badge](www.linkedin.com/in/hayfa-adam)
 
 ### Glad to see you here! 🚀
