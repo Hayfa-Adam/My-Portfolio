@@ -1,7 +1,7 @@
 
 
 
-## Hey there 👋, I'm Hayfa  Iam Based in Stoke-on-Trent, England 🌍.
+## Hey there 👋, I'm Hayfa  Iam Based in Stoke-on-Trent, England 🌍
 
 
 
@@ -62,7 +62,7 @@ My immediate goal is to establish myself as a Junior Data Analyst role in a fina
 
 
 <details>
-  <summary><b>⚡ <a href="https://hayfa-adam.github.io/SQL/">SQL</a></b></summary>
+  <summary><b>⚡ <a href="https://hayfa-adam.github.io/Python/">Python</a></b></summary>
 </details>
 
 
